@@ -1,0 +1,47 @@
+{
+    "Steam-WebKit": "./css/webkit.css",
+    "Patches": [
+        {
+            "MatchRegexString": ".*http.*steam.*",
+            "TargetJs": "./js/webkit.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "./css/steam.css",
+            "TargetJs": "./js/steam.js"
+        },
+        {
+            "MatchRegexString": ".friendsui-container",
+            "TargetCss": "./css/friends.custom.css",
+            "TargetJs": "./js/friends.custom.css.js"
+        },
+        {
+            "MatchRegexString": "Menu$",
+            "TargetCss": "./css/menus.css"
+        },
+        {
+            "MatchRegexString": "Supernav$",
+            "TargetCss": "./css/supernavs.css"
+        }
+    ],
+    "UseDefaultPatches": true,
+    "author": "Noface1200",
+    "description": "Metal Gear Theme",
+    "name": "Metal Gear Reskin",
+    "version": "1.0.0",
+    "github": {
+        "owner": "noface1200",
+        "repo_name": "Metal Gear Steam Reskin"
+    },
+    "discord_support": {
+        "inviteCodeExcludingLink": "ehCrZUdbRr"
+    },
+    "tags": [
+        "Grey",
+        "Metal Gear",
+        "Snake",
+        "Game Of All Time"
+    ],
+    "header_image": "https://imgur.com/dv1uU9p",
+    "splash_image": "https://imgur.com/dv1uU9p"
+}
