@@ -11,4 +11,4 @@ Download and extract the contents of this repository.
 Place the extracted folder into steam\steamui\skins.
 
 Step 3: Activate The Theme Navigate To The Settings Tab In Steam And Then Go The Sub Setting Called Themes
-From Therw You Can Activate The Metal Gear Reskin
+From There You Can Activate The Metal Gear Reskin
